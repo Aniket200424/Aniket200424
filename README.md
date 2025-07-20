@@ -49,11 +49,4 @@ Let me know if you wanna collaborate on a project! 😁
 
 ---
 
-### 📌 How to Use  
-1. Create a new repository with your GitHub *username* (e.g., Dhruv610ag).  
-2. Add a README.md file and paste this code.  
-3. Commit and push the changes.  
 
-🚀 Your profile will now display this awesome GitHub README! 😎  
-
----
