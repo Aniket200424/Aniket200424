@@ -3,7 +3,7 @@ I am a *Artificial And Machine Learning Enthusiast*
 
 💬 *Ask me about anything*  
 
-⚡ *Fun fact:* I think I am Very good at DSA  
+⚡ *Fun fact:* I think I am good at DSA  
 
 ---
 
@@ -26,21 +26,21 @@ I am a *Artificial And Machine Learning Enthusiast*
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Dhruv610ag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv610ag&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv610ag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aniket200424&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aniket200424&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket200424&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 --- 
 
 ##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhruv610ag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aniket200424&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Dhruv610ag&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aniket200424&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📊 Profile Views  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dhruv610ag) 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aniket200424) 
 
 ---
 
