@@ -3,7 +3,7 @@ I am a *Artificial And Machine Learning Enthusiast*
 
 💬 *Ask me about anything*  
 
-⚡ *Fun fact:* I think I am good at DSA  
+⚡Vibe Coder
 
 ---
 
