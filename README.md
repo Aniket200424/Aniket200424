@@ -40,7 +40,7 @@
   </a>
 </p>
 
-> ⚠️ **Note:** Update the LinkedIn / Instagram / LeetCode URLs above with your actual profile links!
+
 
 ---
 
